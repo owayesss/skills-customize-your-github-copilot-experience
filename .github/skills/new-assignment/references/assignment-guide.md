@@ -1,6 +1,6 @@
 # Assignment Design Guide
 
-Guidance for designing assignment content — what to teach and how to scope it. For formatting and markdown structure, the project's instruction files handle that automatically.
+Guidance for designing assignment content — what to teach and how to scope it. For formatting and structure, the project's instruction files handle that automatically.
 
 ## Difficulty & Scope
 
